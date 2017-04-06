@@ -1,4 +1,4 @@
-# gitstart
+# gitstart Sample project
 Git examples
 
 
