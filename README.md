@@ -2,4 +2,6 @@
 Git examples
 
 
-Das wird eine Kollision geben.
+
+Das wird eine Kollision geben. 
+Rolf added
